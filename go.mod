@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/SAIKAII/skResk-Account v0.1.1
-	github.com/SAIKAII/skResk-Infra v0.2.1
+	github.com/SAIKAII/skResk-Infra v0.2.2
 	github.com/go-redsync/redsync v1.3.1
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/kataras/iris v11.1.1+incompatible
